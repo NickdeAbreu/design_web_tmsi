@@ -1,0 +1,16 @@
+h1{
+    color: green;
+    font-size: 24px;
+    text-align: center;
+    }
+    div#imagem{
+        text-align: center;
+    }
+    body{
+    background-image: url(imagens/fundo.jpg);
+    margin-right:20px;
+    }
+    p,ol,ul{
+        color: black;
+        font-weight: bold
+    }

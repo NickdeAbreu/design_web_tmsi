@@ -14,3 +14,24 @@ h1{
         color: black;
         font-weight: bold
     }
+    h5#txt{
+        font-size: 19px;
+    }
+    h3{
+        color: rgb(11, 141, 91);
+        font-size: 24px;
+        text-align: center;
+    }
+    h2{
+        color:rgb(11, 141, 91);
+        font-size: 24px;
+        text-align: center;
+    }
+    div#audio{
+        text-align: center;
+    }
+    h3{
+        color: black;
+        font-weight: bold 
+    }
+  
